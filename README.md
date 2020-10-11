@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### npm intall or npm i
 
+and then run to see the output in the browser:
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
