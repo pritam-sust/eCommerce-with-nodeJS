@@ -1,2 +1,16 @@
 # eCommerce-with-nodeJS
-This is an initial version of e Commerce with node JS. Will be updated gradually 
+
+This project was manually created with node js and express js.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### npm intall or npm i
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
+The page will reload if you make edits.<br />
